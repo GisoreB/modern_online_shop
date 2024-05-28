@@ -2,52 +2,15 @@
 
 An e-commerce Flutter project built in flutter using GetX.
 
-## Directory structure
+## Screenshots
 
-📂lib
-│───main.dart  
-│───📂core  
-|   │──app_data.dart
-|   │──app_theme.dart
-|   │──app_color.dart
-|   └──extensions.dart
-└───📂src
-│────📂model
-│    │──product.dart
-|    │──product_category.dart
-|    │──product_size_type.dart
-|    │──recommended_product.dart
-|    │──categorical.dart
-|    │──numerical.dart
-|    └──bottom_navy_bar_item.dart
-└────📂view
-|    │───📂screen
-|    |   |──home_screen.dart
-|    |   |──product_list_screen.dart
-|    |   |──product_detail_screen.dart
-|    |   |──favorite_screen.dart
-|    |   |──cart_screen.dart
-|    |   └──profile_screen.dart
-|    │───📂widget
-|    |   |──carousel_slider.dart
-|    |   |──product_grid_view.dart
-|    |   |──list_item_selector.dart
-|    |   └──empty_cart.dart
-|    |   └──page_wrapper.dart
-|    └───📂animation
-|        |──animated_switcher_wrapper.dart
-|        └──open_container_wrapper.dart
-└────📂controller
-└──product_controller.dart
+![Screenshot 2024-05-28 190444](https://github.com/GisoreB/modern_online_shop/assets/144854877/38c7c937-6f15-4933-bcc3-f58257d7b9d4)
+![Screenshot 2024-05-28 185931](https://github.com/GisoreB/modern_online_shop/assets/144854877/32cc2ed9-b896-4fbe-a7a6-ef2e10ff7213)
+![Screenshot 2024-05-28 190500](https://github.com/GisoreB/modern_online_shop/assets/144854877/a00c3343-c171-494a-80fa-5e8fcc300518)
+![Screenshot 2024-05-28 190518](https://github.com/GisoreB/modern_online_shop/assets/144854877/c70c697e-800b-49e1-bd69-688451362a7f)
+![Screenshot 2024-05-28 190909](https://github.com/GisoreB/modern_online_shop/assets/144854877/4586fe1b-c0f9-4d0d-83a6-883d6fcce382)
+![Screenshot 2024-05-28 190929](https://github.com/GisoreB/modern_online_shop/assets/144854877/2383acbc-075e-437f-a8f0-08ee16544120)
 
-
-## Dependencies
-*Get - Getx State Management.
-*bottom_navy_bar.
-*smooth_page_indicator.
-*flutter_rating_bar.
-*font_awesome_flutter.
-*animations.
-*flutter_launcher_icons.
+## Video demo
 
 
